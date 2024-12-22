@@ -1,0 +1,21 @@
+{
+  "name": "caramel-theme",
+  "displayName": "Caramel Theme",
+  "description": "A VSCode theme based on the Caramel color scheme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Caramel Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Caramel Theme-color-theme.json"
+      }
+    ]
+  }
+}
