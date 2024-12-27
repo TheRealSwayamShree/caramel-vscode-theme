@@ -24,13 +24,12 @@ For a more detailed analysis of the color scheme, visit the [Caramel repository 
 5. Navigate to `File > Preferences > Color Theme` and select either **Caramel Dark** or **Caramel Light**.
 
 ## Manual Installation
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/TheRealSwayamShree/caramel-theme.git
-   ```
-2. Open the folder in Visual Studio Code.
-3. Press `F5` to run the Extension Development Host.
-4. Go to `File > Preferences > Color Theme` and select your desired variant.
+1. Download the `.vsix` file from the [latest release](https://github.com/TheRealSwayamShree/caramel-theme/releases).
+2. Open Visual Studio Code.
+3. Go to the **Extensions View** (`Ctrl + Shift + X`).
+4. Click the three-dot menu in the top-right corner and select **Install from VSIX...**.
+5. Choose the downloaded `.vsix` file to install the theme.
+6. Navigate to `File > Preferences > Color Theme` and select either **Caramel Dark** or **Caramel Light**.
 
 ## Contributing
 We are not accepting contributions to this theme at the moment. However, you are welcome to **report issues** in this repository or fork it to make your own modifications.

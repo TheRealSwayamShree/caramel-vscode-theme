@@ -1,8 +1,9 @@
 {
   "name": "caramel-theme",
   "displayName": "Caramel Theme",
-  "description": "A warm, earthy-toned color scheme designed for readability, aesthetics, and accessibility. The Caramel theme complies with WCAG standards, offering light and dark variants for diverse applications and environments.",
-  "version": "1",
+  "description": "The Caramel repository hosts a meticulously designed color scheme that draws inspiration from warm, earthy tones. It combines soft, muted accents with harmonious contrasts to create a visually appealing and functional palette for diverse applications.",
+  "version": "1.0.0",
+  "publisher": "swayamshree123",
   "engines": {
     "vscode": "^1.96.0"
   },
@@ -11,7 +12,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/TheRealSwayamShree/caramel-vscode-theme.git"
+    "url": "https://github.com/TheRealSwayamShree/caramel-theme.git"
   },
   "contributes": {
     "themes": [
