@@ -1,7 +1,7 @@
 {
   "name": "caramel-theme",
   "displayName": "Caramel Theme",
-  "description": "A VSCode theme based on the Caramel color scheme",
+  "description": "A warm, earthy-toned color scheme designed for readability, aesthetics, and accessibility. The Caramel theme complies with WCAG standards, offering light and dark variants for diverse applications and environments.",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.96.0"
@@ -9,18 +9,22 @@
   "categories": [
     "Themes"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TheRealSwayamShree/caramel-vscode-theme.git"
+  },
   "contributes": {
     "themes": [
-        {
-            "label": "Caramel Dark",
-            "uiTheme": "vs-dark",
-            "path": "./themes/caramel-dark-color-theme.json"
-        },
-        {
-            "label": "Caramel Light",
-            "uiTheme": "vs",
-            "path": "./themes/caramel-light-color-theme.json"
-        }
+      {
+        "label": "Caramel Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/caramel-dark-color-theme.json"
+      },
+      {
+        "label": "Caramel Light",
+        "uiTheme": "vs",
+        "path": "./themes/caramel-light-color-theme.json"
+      }
     ]
   }
 }
