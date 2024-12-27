@@ -1,16 +1,40 @@
-# caramel-theme README
+# Caramel Theme for VSCode
 
-## Working with Markdown
+The **Caramel Theme** is a meticulously crafted color scheme for Visual Studio Code, inspired by warm, earthy tones. It combines soft, muted accents with harmonious contrasts to create a visually appealing and highly functional palette. Designed with accessibility in mind, the Caramel Theme complies with WCAG (Web Content Accessibility Guidelines) standards to ensure readability and usability for all users.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## Features
+- **Two Variants**: Includes both **Caramel Dark** and **Caramel Light** to suit different preferences and environments.
+- **Accessibility**: Carefully selected colors prioritize contrast and readability, making it suitable for users with visual impairments and varied lighting conditions.
+- **Balanced Palette**: The theme's muted tones reduce eye strain while maintaining aesthetic appeal.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+For a more detailed analysis of the color scheme, visit the [Caramel repository on Github](https://github.com/TheRealSwayamShree/caramel).
 
-## For more information
+## Screenshots
+### Caramel Dark
+![Caramel Dark Screenshot](images/caramel-dark.png)
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+### Caramel Light
+![Caramel Light Screenshot](images/caramel-light.png)
 
-**Enjoy!**
+## Installation
+1. Open Visual Studio Code.
+2. Go to the **Extensions** view by pressing `Ctrl+Shift+X` or clicking the Extensions icon in the Activity Bar.
+3. Search for **Caramel Theme**.
+4. Click **Install**.
+5. Navigate to `File > Preferences > Color Theme` and select either **Caramel Dark** or **Caramel Light**.
+
+## Manual Installation
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/TheRealSwayamShree/caramel-theme.git
+   ```
+2. Open the folder in Visual Studio Code.
+3. Press `F5` to run the Extension Development Host.
+4. Go to `File > Preferences > Color Theme` and select your desired variant.
+
+## Contributing
+We are not accepting contributions to this theme at the moment. However, you are welcome to **report issues** in this repository or fork it to make your own modifications.
+
+## License
+This theme is licensed under the [MIT License](LICENSE).
+
