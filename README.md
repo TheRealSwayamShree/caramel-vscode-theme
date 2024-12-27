@@ -32,7 +32,7 @@ For a more detailed analysis of the color scheme, visit the [Caramel repository 
 6. Navigate to `File > Preferences > Color Theme` and select either **Caramel Dark** or **Caramel Light**.
 
 ## Contributing
-We are not accepting contributions to this theme at the moment. However, you are welcome to **report issues** in this repository or fork it to make your own modifications.
+At this time, I am not accepting contributions. However you are welcome to **report issues** in this repository or fork it to make your own modifications.
 
 ## License
 This theme is licensed under the [MIT License](LICENSE).
