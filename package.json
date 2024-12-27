@@ -2,7 +2,7 @@
   "name": "caramel-theme",
   "displayName": "Caramel Theme",
   "description": "A warm, earthy-toned color scheme designed for readability, aesthetics, and accessibility. The Caramel theme complies with WCAG standards, offering light and dark variants for diverse applications and environments.",
-  "version": "0.0.1",
+  "version": "1",
   "engines": {
     "vscode": "^1.96.0"
   },
